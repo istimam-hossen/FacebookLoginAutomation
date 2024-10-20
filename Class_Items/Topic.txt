@@ -1,0 +1,91 @@
+1. Introduction to Selenium WebDriver 
+	- Overview of Selenium WebDriver and its features
+2. Setting Up Selenium WebDriver Environment
+	- Add Necessary Dependency
+	- Creating a basic Selenium WebDriver script
+	- Configure Browser Setup Class
+3. TestNG Annotation
+	- BeforeSuite
+	- BeforeTest
+	- BeforeClass
+	- BeforeMethod
+	- Test Case
+	- AfterMethod
+	- AfterClass
+	- AfterTest
+	- AfterSuite
+4. Locating Web Elements
+    - What are Locators in Selenium?
+    - Different Locators in Selenium WebDriver
+    - ID Locator
+    - Name Locator
+    - LinkText Locator
+    - Partial LinkText Locator
+    - Tag Name Locator
+    - Class Name Locator
+    - CSS Selector (Cascading Style Sheets)
+    - XPath Selector
+    - Custom Xpath
+    - Custom CSS
+5. Locating tools
+    - SelectorsHub
+    - ChroPath
+6. Interacting with Web Elements
+    - SendKeys Command
+    - Click Command
+    - Clear Command
+    - Get Attribute Command
+    - Get CSS Value Command
+    - Get Text Command
+    - Is Displayed Command
+    - Is Enabled Command
+    - Is Selected Command
+7. Navigating Through Web Pages
+    - Navigate to Command
+    - Navigate Forward Command
+    - Navigate Back Command
+    - Navigate Refresh Command
+8. Browser Commands
+    - Get Command
+    - Get Current URL Command
+    - Get Title Command
+    - Close Command
+    - Quit Command
+    - Minimize
+    - Maximize
+    - Full Screen
+    - Create new window (or) new tab
+    - Switching windows or tabs
+9. Handling alerts and pop-ups
+    - Simple alert
+    - Prompt Alert
+    - Confirmation Alert
+10.Action & Select Class
+    - Select Class Methods
+    - Scroll Down or UP Page
+    - Mouse Hover
+    - Copy & Paste
+11.JavaScriptExecutor
+    - Scroll Down or UP Page
+    - Scroll To element
+12.Handling Frames
+    - Switching between frames
+    - Interacting with elements inside frames
+13. Waits
+    - Understanding and its importance in Selenium WebDriver
+    - Implicit and explicit waits(WebDriverWait)
+    - sleep()
+14.Assertions
+    - Hard Assertion
+    - Soft Assertion
+
+
+
+
+
+
+
+
+
+
+
